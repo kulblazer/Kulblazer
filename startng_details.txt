@@ -1,0 +1,17 @@
+FIRST NAME: DARLINGTON
+LAST NAME:  SIMEON
+OTHER NAME: OCHIJE
+
+EMAIL:   dardinho@ymail.com
+Slack username: Kulblazer
+
+TRACKS: 1. Mobile
+        2. Design
+        3. Front End
+        4. Back End
+				
+Courses Registered: 1. Mobile
+                    2. HTML, CSS, JavaScript
+                    3. PHP
+                    4. C#
+                    5. Node jS
