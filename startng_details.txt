@@ -10,7 +10,7 @@ TRACKS: 1. Mobile
         3. Front End
         4. Back End
 				
-Courses Registered: 1. Mobile
+Courses Registered: 1. Design
                     2. HTML, CSS, JavaScript
                     3. PHP
                     4. C#
